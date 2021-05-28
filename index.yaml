@@ -3,22 +3,22 @@ entries:
   helm-chart-upf:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-28T11:55:21.079826607+02:00"
+    created: "2021-05-28T15:44:28.918412612+02:00"
     description: A Helm chart for Kubernetes
     digest: e6cf874d36647001f4707bb70e1d21b344e81c2a1d9bc0a5ab6b45fdafa65abe
     name: helm-chart-upf
     type: application
     urls:
-    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.0.1.tgz/helm-chart-upf-0.1.0.tgz
+    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-28T11:55:21.079345011+02:00"
+    created: "2021-05-28T15:44:28.917899669+02:00"
     description: A Helm chart for Kubernetes
     digest: 97c3bd5ddfb0b0d5b56edd89deb2efdb74c522e2a5c6da7c0a2d7cd73fc5d8e4
     name: helm-chart-upf
     type: application
     urls:
-    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.0.1.tgz/helm-chart-upf-0.0.1.tgz
+    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-28T11:55:21.078794134+02:00"
+generated: "2021-05-28T15:44:28.906092355+02:00"
