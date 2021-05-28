@@ -9,6 +9,6 @@ entries:
     name: helm-chart-upf
     type: application
     urls:
-    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.1.0.tgz/helm-chart-upf-0.1.0.tgz
+    - https://github.com/ansonmez/acmopen5gsupf/raw/main/helm-chart-upf-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-28T09:57:45.250274403+02:00"
