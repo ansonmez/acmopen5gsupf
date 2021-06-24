@@ -18,3 +18,5 @@ data:
         subnet:
           - addr: 10.45.0.1/16
             dnn: {{ .Values.dnn }}
+          - addr: 10.45.1.1/16
+            dnn: {{ .Values.dnn2 }}
